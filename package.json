@@ -1,0 +1,27 @@
+{
+  "name": "number-format",
+  "version": "1.0.0",
+  "description": "number formatter and create shoutcut like 1000 to 1k",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprakash1/number-format.git"
+  },
+  "keywords": [
+    "number",
+    "format"
+  ],
+  "author": "Santosh Prakash <sps.srk@gmail.com> (https://www.linkedin.com/in/sintu)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sprakash1/number-format/issues"
+  },
+  "homepage": "https://github.com/sprakash1/number-format#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
