@@ -1,6 +1,6 @@
 {
   "name": "sps-number-format",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "number formatter and create shoutcut like 1000 to 1k",
   "main": "index.js",
   "scripts": {
