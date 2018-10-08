@@ -1,4 +1,4 @@
-# number-format
+# @sprakash/number-format
 
 # #number for-matter and create shortcut number description like 1000 to 1K
 
@@ -16,11 +16,19 @@ A small library that adds commas to numbers
 
 Output should be `1K`
 
-    var numFormatter = require('@sprakash1/number-format');
-
     var formattedNum = numFormatter(12600);
 
-Output should be `12.6K`
+Similler Output should be
+4===>4
+40===>40
+400===>400
+4000===>4K
+8767===>8.76K
+87449===>87.44K
+989485===>989.48K
+12347659===>12.34M
+4224424421===>4.22B
+103984447575===>103.98B
 
 ## Tests
 
